@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "weather": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "F:\\mcp_getting_started\\",
+                "run",
+                "weather.py"
+            ]
+        }
+    }
+}
