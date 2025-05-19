@@ -202,5 +202,25 @@ https://medium.com/@cch.chichieh/%E6%88%91%E5%80%91%E9%83%BD%E5%9C%A8%E7%94%A8-a
 agent 應用
 https://github.com/kevin801221/awesome-generative-ai-guide/blob/main/resources/gen_ai_projects.md
 
+agent 應用
+https://github.com/kevin801221/awesome-generative-ai-guide/blob/main/resources/gen_ai_projects.md
+
+
+transformer
+https://zhuanlan.zhihu.com/p/687832172
+
+
+https://mp.weixin.qq.com/s?__biz=MzU3OTgyMjM3MA==&mid=2247484249&idx=1&sn=7238ba9f25af92b399dd5e347fc88592&chksm=fd617514ca16fc025579e6f48b6e87a1fd2368fbd4e725ac835c76d42f490c06c2a6d23a6e82&scene=21#wechat_redirect
+
+https://github.com/kevin801221/AgenticAI_LLMs_Amazing_courses_Manus_Langchain_llamaindex
+
+
+印度人AI
+https://github.com/AIAnytime/Streamlit-as-an-MCP-Host/blob/main/streamlit_new.py
+
+
+ESG
+https://github.com/kevin801221/ESG-SustainaReport_2ExcelReport
+
 
 
