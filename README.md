@@ -2,6 +2,7 @@
 
 
 
+
 資安系統
 
 https://docs.google.com/forms/d/e/1FAIpQLScJGNb341MvMUCDjexHGYAlOuQnZGD5JJmaaurSd1g2OVpTjw/viewform?pli=1
@@ -99,7 +100,6 @@ https://medium.com/ai-cloud-lab/building-multi-agent-ai-app-with-googles-a2a-age
 
 
 
-
 ai 平台
 
 https://ainote.tw/qwen2-5-vl-comprehensive-analysis-of-ai-visual-language-modeling-technology-details-and-application-guide/
@@ -179,5 +179,26 @@ https://www.aizws.net/news/detail/304
 
 ollama 訓練
 
-
 https://github.com/crewAIInc/crewAI-examples/tree/main
+
+
+20250519
+
+RAG改進
+https://medium.com/@cch.chichieh/rag-%E5%84%AA%E5%8C%96%E6%8A%80%E5%B7%A7-7-%E5%A4%A7%E6%8C%91%E6%88%B0%E8%88%87%E8%A7%A3%E6%B1%BA%E6%96%B9%E5%BC%8F-%E5%A2%9E%E9%80%B2%E4%BD%A0%E7%9A%84-llm-0e4ac8adc6df
+
+
+mcp 協議
+https://kilong31442.medium.com/anthropic%E5%B9%B9%E5%BE%97%E5%A5%BD-%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%94%E8%AD%B0-mcp-%E7%82%BA-ai-%E6%89%93%E9%80%A0-usb-c-%E6%A8%99%E6%BA%96%E9%80%A3%E6%8E%A5%E5%9F%A0%E7%9A%84%E6%9C%AA%E4%BE%86-openai-agent-sdk%E4%B9%9F%E4%BE%86%E6%8E%A5%E6%8B%9B-689bda388927
+
+
+LLM 工程師的知識
+https://github.com/kevin801221/awesome-generative-ai-guide/blob/main/interview_prep/60_gen_ai_questions.md
+
+
+AI agent 的困難點
+https://medium.com/@cch.chichieh/%E6%88%91%E5%80%91%E9%83%BD%E5%9C%A8%E7%94%A8-ai-%E4%BD%86-ai-%E8%B7%9F-ai-%E6%80%8E%E9%BA%BC%E6%BA%9D%E9%80%9A-%E6%B7%BA%E8%AB%87-ai-agent-%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A-942b2f15bea4
+
+
+
+
