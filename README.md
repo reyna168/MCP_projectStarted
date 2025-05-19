@@ -199,6 +199,8 @@ https://github.com/kevin801221/awesome-generative-ai-guide/blob/main/interview_p
 AI agent 的困難點
 https://medium.com/@cch.chichieh/%E6%88%91%E5%80%91%E9%83%BD%E5%9C%A8%E7%94%A8-ai-%E4%BD%86-ai-%E8%B7%9F-ai-%E6%80%8E%E9%BA%BC%E6%BA%9D%E9%80%9A-%E6%B7%BA%E8%AB%87-ai-agent-%E9%80%9A%E8%A8%8A%E5%8D%94%E5%AE%9A-942b2f15bea4
 
+agent 應用
+https://github.com/kevin801221/awesome-generative-ai-guide/blob/main/resources/gen_ai_projects.md
 
 
 
