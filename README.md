@@ -223,4 +223,8 @@ ESG
 https://github.com/kevin801221/ESG-SustainaReport_2ExcelReport
 
 
+20250521
+lora
+https://hub.athina.ai/blogs/low-rank-adaptation-lora-a-parameter-efficient-fine-tuning-for-llms/
+
 
